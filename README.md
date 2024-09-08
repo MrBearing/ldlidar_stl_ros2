@@ -1,3 +1,5 @@
+[![ci_jazzy](https://github.com/MrBearing/ldlidar_stl_ros2/actions/workflows/ci_jazzy.yaml/badge.svg)](https://github.com/MrBearing/ldlidar_stl_ros2/actions/workflows/ci_jazzy.yaml)
+
 - [cn](#操作指南)
 - [en](#Instructions)
 # 操作指南
